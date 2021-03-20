@@ -1,0 +1,35 @@
+.section{
+    padding: 50px 0;
+}
+.header{
+    font-size: 30px;
+    line-height: 1.5;
+    margin-bottom: 60px;
+}
+.header span{
+    display: block;
+}
+.header-form, .feature-header{
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.form{
+    border: 4px solid rgb(3, 182, 113);
+    border-radius: 15px;
+    padding: 30px 20px;
+    background-color: rgb(225, 223, 223);
+}
+.form input{
+    margin: 15px auto;
+}
+.form-btn{
+    margin: 10px auto;
+}
+.feature{
+    margin: 60px;
+}
+.feature p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
